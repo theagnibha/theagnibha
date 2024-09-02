@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Agnibha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://geekflare.com/wp-content/uploads/2022/10/Coding.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theagnibha&label=Profile%20views&color=0e75b6&style=flat" alt="theagnibha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/agnibhamaity21" target="blank"><img src="https://img.shields.io/twitter/follow/agnibhamaity21?logo=twitter&style=for-the-badge" alt="agnibhamaity21" /></a> </p>
 
-- 🔭 I’m currently working on **Movie Recommendation System**
+- 🔭 I’m currently working on **Core Java**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **theagnibha@gmail.com**
 
